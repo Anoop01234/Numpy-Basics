@@ -3,7 +3,7 @@ So this is about my blog. The medium link is given below in the description. \
 NumPy is the fundamental package needed for scientific computing with Python.
 
 ## Website: https://www.numpy.org \
-#Documentation: https://numpy.org/doc
+## Documentation: https://numpy.org/doc
 
 ### Testing:
 
